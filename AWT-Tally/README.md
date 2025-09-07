@@ -32,3 +32,7 @@ This project is a simple **Java AWT application** that functions as a digital ta
    ```bash
    javac Tally.java
 
+
+   <img width="766" height="759" alt="image" src="https://github.com/user-attachments/assets/d8c0fef9-dd96-4237-ac61-43e84e176d86" />
+
+
